@@ -1,3 +1,6 @@
+- perf(script): :zap: 优化网页界面
+- perf(script): :zap: Optimize web interface
+---
 - feat(web): :fire: 新增 web 界面可显示和删除已安装的证书...
 - feat(web): :fire: New web interface to display and delete installed certificates.
 - chore(log): :loud_sound: 日志优化.
