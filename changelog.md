@@ -1,3 +1,9 @@
+- fix(webui): 🐛 #34 修复识别证书失败
+- fix(webui): 🐛 #34 Failed to repair recognition certificate
+---
+- build(webroot): :fire: 识别证书优化
+- build(webroot): :fire: Recognition Certificate Optimization
+---
 - perf(script): :zap: 优化网页界面
 - perf(script): :zap: Optimize web interface
 ---
