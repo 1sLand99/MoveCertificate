@@ -49,6 +49,10 @@ mv cacert.der 02e06844.0
 # 使用实测
 ![2024-02-19_01.27.27](README.assets/2024-02-19_01.27.27.png)
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ys1231/MoveCertificate&type=Date)](https://star-history.com/#ys1231/MoveCertificate&Date)
+
 # 参考链接:
 - http://www.zhuoyue360.com/crack/60.html
 - https://topjohnwu.github.io/Magisk/guides.html#boot-scripts
